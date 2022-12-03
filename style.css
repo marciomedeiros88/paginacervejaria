@@ -45,6 +45,10 @@ section img{
     flex-direction: row;
 }
 
+#card{
+    margin-top: 15%;
+}
+
 #card button{
     border-radius: 5px;
     border: white solid 2px;
